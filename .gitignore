@@ -4,6 +4,7 @@
 .terraform/
 terraform.tfvars
 crash.log
+.terraform.lock.hcl
 override.tf
 override.tf.json
 *.pem
